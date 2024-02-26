@@ -1,3 +1,4 @@
 node_modules
 .DS_Store
 newfile2.txt
+package-lock.json
